@@ -1,0 +1,17 @@
+body {
+    background-color: darkkhaki;
+    background-image: url(../img/2by4.jpeg);
+    font-family: verdana;
+    font-size: 20px;
+}
+
+img{
+    float: right;
+}
+
+h1{
+    text-align: center;
+    font-family: monospace;
+    font-size: 70px;
+    font-style: oblique;
+}
